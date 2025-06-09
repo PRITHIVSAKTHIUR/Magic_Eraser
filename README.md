@@ -10,11 +10,11 @@ Supported Streamlit Version [ pip install streamlit==1.34.0 ]
 
  <!-- Replace with actual screenshot path -->
 
-# Magic Eraser Tool 🪄
+# Magic Eraser Tool
 
 Remove unwanted objects from your images with AI-powered inpainting!
 
-## Features ✨
+## Features 
 
 - Simple brush-based interface to mark areas for removal
 - AI-powered inpainting technology
@@ -22,14 +22,14 @@ Remove unwanted objects from your images with AI-powered inpainting!
 - Adjustable brush size for precise editing
 - Download your edited images with one click
 
-## How It Works 🛠️
+## How It Works 
 
 1. Upload an image (JPG/PNG)
 2. Use the brush tool to mark areas you want to remove
 3. Click "Submit" and let AI work its magic
 4. Download your cleaned image
 
-## Installation 💻
+## Installation
 
 To run locally:
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Requirements 📋
+## Requirements 
 - Streamlit==1.34.0
 - NumPy
 - Pillow
